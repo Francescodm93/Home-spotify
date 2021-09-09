@@ -1,0 +1,191 @@
+body {
+    margin: 8vh 450px;
+}
+h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.para {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+fieldset {
+    text-align: center;
+    border: rgb(127, 127, 127) 1px solid;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    margin-right: 2vw;
+    color: rgb(127, 127, 127);
+    font-family: monospace;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.form-action {
+    text-align: center;
+}
+
+.sing-in {
+    padding: 14px 32px;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    background: #1877F2;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 50px;
+    
+}
+
+.sing-in:hover {
+    background: #3085F3;
+    color: #f0f0f0;
+    padding: 16px 36px;
+}
+
+label { 
+    font-size: 14px;
+    text-align: left;
+
+    
+}
+
+input {
+    text-rendering: auto;
+    border: 1px black solid;
+    margin-top: 4px;
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 14px 250px 14px 5px;
+}
+
+
+.para1 {
+    margin: 1vh 0;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.date1 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.inp {
+    padding: 14px 8px;
+width: 60px;
+}
+.inp1 {
+    padding: 14px 8px;
+width: 180px;
+border-radius: 4px;
+}
+.inp2 {
+    padding: 14px 8px;
+width: 50px;
+}
+
+.para2 {
+    margin-right: 110px;
+}
+
+.para3 {
+    margin-right: 10px;
+}
+
+input.type {
+  margin: 0; 
+}
+
+input.type1 {
+    margin: 0;
+    height: 16px;
+    width: 16px;
+  }
+
+a {
+    color: rgb(29, 185, 84);
+}
+
+.sex {
+    padding-left: 12px;
+    padding-right: 24px;
+}
+
+.check {
+    padding-left: 12px;
+}
+
+.box {
+    border: 1px lightgray solid;
+    width: 25vw;
+    height: 16vh;
+    text-align: left;
+}
+
+input.type2 {
+    margin: 35px 5px 10px 15px;
+    height: 28px;
+    width: 28px;
+  }
+
+  span.check1 {
+     position: relative;
+     bottom: 7px;
+  }
+
+  .security {
+      position: relative;
+      left: 120px;
+      bottom: 58px;
+      text-align: center;
+  }
+
+  .pass {
+      font-size: 10px;
+  }
+
+  .para4 {
+      text-align: center;
+      font-size: 14px;
+  }
+
+  .register{
+    padding: 16px 48px;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    background: #1ed760;
+    color: rgb(27, 27, 27);
+    font-size: 16px;
+    border-radius: 50px;
+  }
+
+  .register:hover {
+
+    padding: 18px 50px;
+    background: #2ad466;
+    color: rgb(32, 32, 32);
+  }
+
+.access {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
